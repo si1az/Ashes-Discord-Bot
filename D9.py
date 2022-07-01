@@ -1,5 +1,6 @@
 
-#make sure you type   -pip install discord   in your python terminal to be able to use Discord's API
+# make sure you type   -pip install discord   in your python terminal to be able to use Discord's API
+
 import discord
 import random
 
